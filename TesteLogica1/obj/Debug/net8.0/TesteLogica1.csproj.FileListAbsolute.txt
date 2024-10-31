@@ -1,0 +1,14 @@
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\bin\Debug\net8.0\TesteLogica1.exe
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\bin\Debug\net8.0\TesteLogica1.deps.json
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\bin\Debug\net8.0\TesteLogica1.runtimeconfig.json
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\bin\Debug\net8.0\TesteLogica1.dll
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\bin\Debug\net8.0\TesteLogica1.pdb
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\obj\Debug\net8.0\TesteLogica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\obj\Debug\net8.0\TesteLogica1.AssemblyInfoInputs.cache
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\obj\Debug\net8.0\TesteLogica1.AssemblyInfo.cs
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\obj\Debug\net8.0\TesteLogica1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\obj\Debug\net8.0\TesteLogica1.dll
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\obj\Debug\net8.0\refint\TesteLogica1.dll
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\obj\Debug\net8.0\TesteLogica1.pdb
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\obj\Debug\net8.0\TesteLogica1.genruntimeconfig.cache
+C:\Users\Windows 10\source\repos\TesteLogica1\TesteLogica1\obj\Debug\net8.0\ref\TesteLogica1.dll
